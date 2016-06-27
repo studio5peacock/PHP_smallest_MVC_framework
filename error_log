@@ -1,0 +1,2 @@
+[27-Jun-2016 21:08:06 UTC] PHP Fatal error:  Call to undefined function file_exist() in /home/genming/public_html/test/a/controller.php on line 15
+[27-Jun-2016 21:15:42 UTC] PHP Fatal error:  Call to undefined method Welcome::action() in /home/genming/public_html/test/a/controller.php on line 38
